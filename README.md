@@ -1,2 +1,2 @@
-## PharmaFind
-## Repo on the group project of ECE1104  
+# PharmaFind
+### Repo on the group project of ECE1104  
