@@ -1,0 +1,201 @@
+200
+1001|Napa|Paracetamol|Square|500.00|2.50|5|1|1|N/A
+1002|Ace|Paracetamol|Beximco|500.00|3.75|12|1|2|N/A
+1003|Fast|Paracetamol|Incepta|500.00|5.00|14|1|3|N/A
+1004|Reset|Paracetamol|Renata|500.00|6.25|26|1|4|N/A
+1005|Calbo-D|Paracetamol|Acme|500.00|7.50|33|1|5|N/A
+1006|Parapyrol|Paracetamol|Eskayef|500.00|8.75|40|1|6|N/A
+1007|Pyralgin|Paracetamol|Healthcare|500.00|10.00|47|1|7|N/A
+1008|Pyrol|Paracetamol|Drug International|500.00|11.25|54|1|8|N/A
+1009|Tempol|Paracetamol|Aristopharma|500.00|12.50|5|1|9|N/A
+1010|Painil|Paracetamol|Opsonin|500.00|13.75|12|1|10|N/A
+1011|Seclo|Omeprazole|Square|20.00|2.02|19|2|1111|N/A
+1012|Losectil|Omeprazole|Beximco|20.00|3.27|26|2|1112|N/A
+1013|DP Done|Omeprazole|Incepta|20.00|4.52|33|2|1113|N/A
+1014|Omet|Omeprazole|Renata|20.00|5.77|40|2|1114|N/A
+1015|Ome|Omeprazole|Acme|20.00|7.02|47|2|1115|N/A
+1016|Prazol|Omeprazole|Eskayef|20.00|8.27|54|2|1116|N/A
+1017|Omidon|Omeprazole|Healthcare|20.00|9.52|5|2|1117|N/A
+1018|Proton|Omeprazole|Drug International|20.00|10.77|12|2|1118|N/A
+1019|Omepro|Omeprazole|Aristopharma|20.00|12.02|19|2|1119|N/A
+1020|Gastrum|Omeprazole|Opsonin|20.00|13.27|26|2|1120|N/A
+1021|Maxpro|Esomeprazole|Square|20.00|2.02|33|2|1121|N/A
+1022|Sergel|Esomeprazole|Beximco|20.00|3.27|40|2|1122|N/A
+1023|Esoral|Esomeprazole|Incepta|20.00|4.52|47|2|1123|N/A
+1024|Esolok|Esomeprazole|Renata|20.00|5.77|54|2|1124|N/A
+1025|Esopra|Esomeprazole|Acme|20.00|7.02|5|2|1125|N/A
+1026|Nexum|Esomeprazole|Eskayef|20.00|8.27|12|2|1126|N/A
+1027|Esoz|Esomeprazole|Healthcare|20.00|9.52|19|2|1127|N/A
+1028|Esozol|Esomeprazole|Drug International|20.00|10.77|26|2|1128|N/A
+1029|Ezol|Esomeprazole|Aristopharma|20.00|12.02|33|2|1129|N/A
+1030|Praz|Esomeprazole|Opsonin|20.00|13.27|40|2|1130|N/A
+1031|Fexo|Fexofenadine|Square|120.00|2.12|44|2|1131|N/A
+1032|Fenadin|Fexofenadine|Beximco|120.00|3.37|54|2|1132|N/A
+1033|Fexofast|Fexofenadine|Incepta|120.00|4.62|5|2|1133|N/A
+1034|Aladin|Fexofenadine|Renata|120.00|5.87|12|2|1134|N/A
+1035|Fexon|Fexofenadine|Acme|120.00|7.12|19|2|1135|N/A
+1036|Telfast|Fexofenadine|Eskayef|120.00|8.37|26|2|1136|N/A
+1037|Fexor|Fexofenadine|Healthcare|120.00|9.62|33|2|1137|N/A
+1038|Fexolin|Fexofenadine|Drug International|120.00|10.87|40|2|1138|N/A
+1039|Allegra|Fexofenadine|Aristopharma|120.00|12.12|47|2|1139|N/A
+1040|Fexadine|Fexofenadine|Opsonin|120.00|13.37|54|2|1140|N/A
+1041|Monas|Montelukast|Square|10.00|2.01|5|2|1141|N/A
+1042|Montair|Montelukast|Beximco|10.00|3.26|12|2|1142|N/A
+1043|Montene|Montelukast|Incepta|10.00|4.51|19|2|1143|N/A
+1044|Montiva|Montelukast|Renata|10.00|5.76|26|2|1144|N/A
+1045|Montel|Montelukast|Acme|10.00|7.01|33|2|1145|N/A
+1046|Montika|Montelukast|Eskayef|10.00|8.26|40|2|1146|N/A
+1047|Lukast|Montelukast|Healthcare|10.00|9.51|47|2|1147|N/A
+1048|Monta|Montelukast|Drug International|10.00|10.76|54|2|1148|N/A
+1049|Montek|Montelukast|Aristopharma|10.00|12.01|5|2|1149|N/A
+1050|Montin|Montelukast|Opsonin|10.00|13.26|12|2|1150|N/A
+1051|Cetriz|Cetirizine|Square|10.00|2.01|19|1|3|N/A
+1052|Alergin|Cetirizine|Beximco|10.00|3.26|26|1|4|N/A
+1053|Cetzine|Cetirizine|Incepta|10.00|4.51|33|1|5|N/A
+1054|Cetrin|Cetirizine|Renata|10.00|5.76|40|1|6|N/A
+1055|Cetizin|Cetirizine|Acme|10.00|7.01|47|1|7|N/A
+1056|Alerid|Cetirizine|Eskayef|10.00|8.26|54|1|8|N/A
+1057|Ceti|Cetirizine|Healthcare|10.00|9.51|5|1|9|N/A
+1058|Zyrtec|Cetirizine|Drug International|10.00|10.76|12|1|10|N/A
+1059|Cetz|Cetirizine|Aristopharma|10.00|12.01|19|1|11|N/A
+1060|Allercet|Cetirizine|Opsonin|10.00|13.26|26|1|12|N/A
+1061|Azithro|Azithromycin|Square|500.00|2.50|33|2|1161|N/A
+1062|Azicin|Azithromycin|Beximco|500.00|3.75|40|2|1162|N/A
+1063|Azee|Azithromycin|Incepta|500.00|5.00|47|2|1163|N/A
+1064|Azimax|Azithromycin|Renata|500.00|6.25|54|2|1164|N/A
+1065|Azit|Azithromycin|Acme|500.00|7.50|5|2|1165|N/A
+1066|Zithrin|Azithromycin|Eskayef|500.00|8.75|12|2|1166|N/A
+1067|Azith|Azithromycin|Healthcare|500.00|10.00|19|2|1167|N/A
+1068|Zimax|Azithromycin|Drug International|500.00|11.25|26|2|1168|N/A
+1069|Azim|Azithromycin|Aristopharma|500.00|12.50|33|2|1169|N/A
+1070|Azolin|Azithromycin|Opsonin|500.00|13.75|40|2|1170|N/A
+1071|Moxacil|Amoxicillin|Square|500.00|2.50|47|2|1171|N/A
+1072|Amoxil|Amoxicillin|Beximco|500.00|3.75|54|2|1172|N/A
+1073|Amox|Amoxicillin|Incepta|500.00|5.00|5|2|1173|N/A
+1074|Moxilin|Amoxicillin|Renata|500.00|6.25|12|2|1174|N/A
+1075|Amoxipen|Amoxicillin|Acme|500.00|7.50|19|2|1175|N/A
+1076|Mox|Amoxicillin|Eskayef|500.00|8.75|26|2|1176|N/A
+1077|Amoxan|Amoxicillin|Healthcare|500.00|10.00|33|2|1177|N/A
+1078|Amo|Amoxicillin|Drug International|500.00|11.25|40|2|1178|N/A
+1079|Moxic|Amoxicillin|Aristopharma|500.00|12.50|47|2|1179|N/A
+1080|Amoxicap|Amoxicillin|Opsonin|500.00|13.75|54|2|1180|N/A
+1081|Metfo|Metformin|Square|500.00|2.50|5|2|1181|N/A
+1082|Comet|Metformin|Beximco|500.00|3.75|12|2|1182|N/A
+1083|Metlong|Metformin|Incepta|500.00|5.00|19|2|1183|N/A
+1084|Gluco|Metformin|Renata|500.00|6.25|26|2|1184|N/A
+1085|Metfor|Metformin|Acme|500.00|7.50|33|2|1185|N/A
+1086|Mefor|Metformin|Eskayef|500.00|8.75|40|2|1186|N/A
+1087|Glymet|Metformin|Healthcare|500.00|10.00|47|2|1187|N/A
+1088|Diaformin|Metformin|Drug International|500.00|11.25|54|2|1188|N/A
+1089|Metmin|Metformin|Aristopharma|500.00|12.50|5|2|1189|N/A
+1090|Metabet|Metformin|Opsonin|500.00|13.75|12|2|1190|N/A
+1091|Amloki|Amlodipine|Square|5.00|2.00|19|2|1191|N/A
+1092|Amdocal|Amlodipine|Beximco|5.00|3.26|26|2|1192|N/A
+1093|Amlod|Amlodipine|Incepta|5.00|4.50|33|2|1193|N/A
+1094|Amlopres|Amlodipine|Renata|5.00|5.76|40|2|1194|N/A
+1095|Amlovas|Amlodipine|Acme|5.00|7.00|47|2|1195|N/A
+1096|Amlopin|Amlodipine|Eskayef|5.00|8.26|54|2|1196|N/A
+1097|Amlo|Amlodipine|Healthcare|5.00|9.51|5|2|1197|N/A
+1098|Norvasc|Amlodipine|Drug International|5.00|10.76|12|2|1198|N/A
+1099|Amlodex|Amlodipine|Aristopharma|5.00|12.00|19|2|1199|N/A
+1100|Amlocard|Amlodipine|Opsonin|5.00|13.26|26|2|1200|N/A
+1101|Losar|Losartan|Square|50.00|2.05|33|2|1201|N/A
+1102|Losarva|Losartan|Beximco|50.00|3.30|40|2|1202|N/A
+1103|Losagen|Losartan|Incepta|50.00|4.55|47|2|1203|N/A
+1104|Losan|Losartan|Renata|50.00|5.80|54|2|1204|N/A
+1105|Lorvas|Losartan|Acme|50.00|7.05|5|2|1205|N/A
+1106|Losart|Losartan|Eskayef|50.00|8.30|12|2|1206|N/A
+1107|Cozaar|Losartan|Healthcare|50.00|9.55|19|2|1207|N/A
+1108|Losium|Losartan|Drug International|50.00|10.80|26|2|1208|N/A
+1109|Losap|Losartan|Aristopharma|50.00|12.05|33|2|1209|N/A
+1110|Loscare|Losartan|Opsonin|50.00|13.30|40|2|1210|N/A
+1111|Atorva|Atorvastatin|Square|10.00|2.01|47|2|1211|N/A
+1112|Atova|Atorvastatin|Beximco|10.00|3.26|54|2|1212|N/A
+1113|Lipitor|Atorvastatin|Incepta|10.00|4.51|5|2|1213|N/A
+1114|Atorlip|Atorvastatin|Renata|10.00|5.76|12|2|1214|N/A
+1115|Ator|Atorvastatin|Acme|10.00|7.01|19|2|1215|N/A
+1116|Lipicon|Atorvastatin|Eskayef|10.00|8.26|26|2|1216|N/A
+1117|Atova|Atorvastatin|Healthcare|10.00|9.51|33|2|1217|N/A
+1118|Atorvast|Atorvastatin|Drug International|10.00|10.76|40|2|1218|N/A
+1119|Atorin|Atorvastatin|Aristopharma|10.00|12.01|47|2|1219|N/A
+1120|Atolip|Atorvastatin|Opsonin|10.00|13.26|54|2|1220|N/A
+1121|Salbu|Salbutamol|Square|4.00|2.00|5|1|1|N/A
+1122|Ventolin|Salbutamol|Beximco|4.00|3.25|12|1|2|N/A
+1123|Asthalin|Salbutamol|Incepta|4.00|4.50|19|1|3|N/A
+1124|Salbut|Salbutamol|Renata|4.00|5.75|26|1|4|N/A
+1125|Salmol|Salbutamol|Acme|4.00|7.00|33|1|5|N/A
+1126|Butalin|Salbutamol|Eskayef|4.00|8.25|40|1|6|N/A
+1127|Salbair|Salbutamol|Healthcare|4.00|9.50|47|1|7|N/A
+1128|Broncol|Salbutamol|Drug International|4.00|10.75|54|1|8|N/A
+1129|Salbo|Salbutamol|Aristopharma|4.00|12.00|5|1|9|N/A
+1130|Sultolin|Salbutamol|Opsonin|4.00|13.25|12|1|10|N/A
+1131|Voltalin|Diclofenac|Square|50.00|2.05|19|2|1231|N/A
+1132|Diclo|Diclofenac|Beximco|50.00|3.30|26|2|1232|N/A
+1133|Fenac|Diclofenac|Incepta|50.00|4.55|33|2|1233|N/A
+1134|Diclac|Diclofenac|Renata|50.00|5.80|40|2|1234|N/A
+1135|Diclomax|Diclofenac|Acme|50.00|7.05|47|2|1235|N/A
+1136|Difen|Diclofenac|Eskayef|50.00|8.30|54|2|1236|N/A
+1137|Diclod|Diclofenac|Healthcare|50.00|9.55|5|2|1237|N/A
+1138|Volta|Diclofenac|Drug International|50.00|10.80|12|2|1238|N/A
+1139|Diclon|Diclofenac|Aristopharma|50.00|12.05|19|2|1239|N/A
+1140|Dolfen|Diclofenac|Opsonin|50.00|13.30|26|2|1240|N/A
+1141|Ibu|Ibuprofen|Square|400.00|2.40|33|1|9|N/A
+1142|Brufen|Ibuprofen|Beximco|400.00|3.65|40|1|10|N/A
+1143|Ibufen|Ibuprofen|Incepta|400.00|4.90|47|1|11|N/A
+1144|Ibun|Ibuprofen|Renata|400.00|6.15|54|1|12|N/A
+1145|Ibuplus|Ibuprofen|Acme|400.00|7.40|5|1|1|N/A
+1146|Nurofen|Ibuprofen|Eskayef|400.00|8.65|12|1|2|N/A
+1147|Ibufast|Ibuprofen|Healthcare|400.00|9.90|19|1|3|N/A
+1148|Ibumol|Ibuprofen|Drug International|400.00|11.15|26|1|4|N/A
+1149|Ibusin|Ibuprofen|Aristopharma|400.00|12.40|33|1|5|N/A
+1150|Ibutab|Ibuprofen|Opsonin|400.00|13.65|40|1|6|N/A
+1151|Flucoral|Fluconazole|Square|150.00|2.15|47|2|1251|N/A
+1152|Flucon|Fluconazole|Beximco|150.00|3.40|54|2|1252|N/A
+1153|Flugal|Fluconazole|Incepta|150.00|4.65|5|2|1253|N/A
+1154|Flucan|Fluconazole|Renata|150.00|5.90|12|2|1254|N/A
+1155|Fungin|Fluconazole|Acme|150.00|7.15|19|2|1255|N/A
+1156|Fluzol|Fluconazole|Eskayef|150.00|8.40|26|2|1256|N/A
+1157|Fluco|Fluconazole|Healthcare|150.00|9.65|33|2|1257|N/A
+1158|Mycozol|Fluconazole|Drug International|150.00|10.90|40|2|1258|N/A
+1159|Flunaz|Fluconazole|Aristopharma|150.00|12.15|47|2|1259|N/A
+1160|Candiflu|Fluconazole|Opsonin|150.00|13.40|54|2|1260|N/A
+1161|Ceevit|Vitamin C|Square|250.00|2.25|5|1|5|N/A
+1162|DP Vit-C|Vitamin C|Beximco|250.00|3.50|12|1|6|N/A
+1163|Cevit|Vitamin C|Incepta|250.00|4.75|19|1|7|N/A
+1164|Vitac|Vitamin C|Renata|250.00|6.00|26|1|8|N/A
+1165|C-Vit|Vitamin C|Acme|250.00|7.25|33|1|9|N/A
+1166|CeePlus|Vitamin C|Eskayef|250.00|8.50|40|1|10|N/A
+1167|Vita-C|Vitamin C|Healthcare|250.00|9.75|47|1|11|N/A
+1168|Ceecap|Vitamin C|Drug International|250.00|11.00|54|1|12|N/A
+1169|Asco|Vitamin C|Aristopharma|250.00|12.25|5|1|1|N/A
+1170|Vitcin|Vitamin C|Opsonin|250.00|13.50|12|1|2|N/A
+1171|Calbo-D|Calcium Carbonate|Square|500.00|2.50|19|1|3|N/A
+1172|Calcium-D|Calcium Carbonate|Beximco|500.00|3.75|26|1|4|N/A
+1173|Ostocal|Calcium Carbonate|Incepta|500.00|5.00|33|1|5|N/A
+1174|Calci|Calcium Carbonate|Renata|500.00|6.25|40|1|6|N/A
+1175|Cal-D|Calcium Carbonate|Acme|500.00|7.50|47|1|7|N/A
+1176|Calvit|Calcium Carbonate|Eskayef|500.00|8.75|54|1|8|N/A
+1177|Ostovit|Calcium Carbonate|Healthcare|500.00|10.00|5|1|9|N/A
+1178|Calbo|Calcium Carbonate|Drug International|500.00|11.25|12|1|10|N/A
+1179|Calplus|Calcium Carbonate|Aristopharma|500.00|12.50|19|1|11|N/A
+1180|Calcare|Calcium Carbonate|Opsonin|500.00|13.75|26|1|12|N/A
+1181|Orsaline|ORS|Square|0.00|2.00|33|1|1|N/A
+1182|Oralyte|ORS|Beximco|0.00|3.25|40|1|2|N/A
+1183|ORS Plus|ORS|Incepta|0.00|4.50|47|1|3|N/A
+1184|O-Sal|ORS|Renata|0.00|5.75|54|1|4|N/A
+1185|Orsal|ORS|Acme|0.00|7.00|5|1|5|N/A
+1186|Hydra|ORS|Eskayef|0.00|8.25|12|1|6|N/A
+1187|Orsalit|ORS|Healthcare|0.00|9.50|19|1|7|N/A
+1188|Rehydra|ORS|Drug International|0.00|10.75|26|1|8|N/A
+1189|Ors|ORS|Aristopharma|0.00|12.00|33|1|9|N/A
+1190|Oraly|ORS|Opsonin|0.00|13.25|40|1|10|N/A
+1191|Zincat|Zinc Sulfate|Square|20.00|2.02|47|1|11|N/A
+1192|Zincolak|Zinc Sulfate|Beximco|20.00|3.27|54|1|12|N/A
+1193|Zinconia|Zinc Sulfate|Incepta|20.00|4.52|5|1|1|N/A
+1194|Zinc|Zinc Sulfate|Renata|20.00|5.77|12|1|2|N/A
+1195|Zinco|Zinc Sulfate|Acme|20.00|7.02|19|1|3|N/A
+1196|Zinax|Zinc Sulfate|Eskayef|20.00|8.27|26|1|4|N/A
+1197|Zincovit|Zinc Sulfate|Healthcare|20.00|9.52|33|1|5|N/A
+1198|Zin|Zinc Sulfate|Drug International|20.00|10.77|40|1|6|N/A
+1199|Zinc Plus|Zinc Sulfate|Aristopharma|20.00|12.02|47|1|7|N/A
+1200|Zins|Zinc Sulfate|Opsonin|20.00|13.27|54|1|8|N/A
