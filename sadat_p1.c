@@ -422,6 +422,6 @@ void showMedicines(Medicine *medicines, int count)
  
 
 
-#include "part2_search_inventory.c"
-#include "part3_invoice_data.c"
+#include "oni_final_p3.c"
+#include "tashfia_p2.c"
 
