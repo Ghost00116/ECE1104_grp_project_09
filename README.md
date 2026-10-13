@@ -8,6 +8,8 @@
 **Department of Electrical and Computer Engineering**\
 **Rajshahi University of Engineering & Technology (RUET)**
 
+## [Click here](https://youtu.be/RjX-vTLf8P0) for the video presentation
+
 ## Team Members
 
   ---------------------------------------------------------------------------
